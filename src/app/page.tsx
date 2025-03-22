@@ -28,7 +28,7 @@ export default function Index() {
           {/* Profile picture overlay */}
           <div className="absolute top-4 left-4 w-56 h-56 rounded-full overflow-hidden border-4 border-white">
             <Image
-              src="/assets/profile/2.png"
+              src="/assets/blog/authors/gjk.jpeg"
               alt="Profile Picture"
               fill
               style={{ objectFit: 'cover' }}

@@ -31,7 +31,10 @@ Building for Switzerland Viral Surveillance. I am developing the data importer f
 Learning long-tail DEX market making. Excited to understand market mechanics, which will underpin Web3. Actively building on SUI, preparing for the dawn of Web3.
 
 ## BIO
--
+- Software Engineer, Bioinformatics   2024-current   @ ETH Zürich, D-BSSE
+- MSc Biotech                         2023    @ ETH Zürich
+- MSc Physics                         2021    @ Imperial College London
+- BSc Physics                         2020    @ University College London
 
 ## Others about me
 - Killing it in space weather: [**Astrophysical Journal Feature my MSc Physics Thesis**](https://aasnova.org/2023/02/01/creating-a-perfect-solar-storm/)

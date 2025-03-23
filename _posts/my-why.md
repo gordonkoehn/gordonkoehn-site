@@ -38,8 +38,11 @@ Learning long-tail DEX market making. Excited to understand market mechanics, wh
 
 ## Others about me
 - Killing it in space weather: [**Astrophysical Journal Feature my MSc Physics Thesis**](https://aasnova.org/2023/02/01/creating-a-perfect-solar-storm/)
+
 - Solving the Plastic Issue (well 2nd): [**Startup Competition by Student Biolab Ideathon by ETH Zürich**](https://www.studentbiolab.ch/ideathon)
+
 - Killing Space-Photography / weather balloons: [**Local Newspaper Coverage**](https://www.abendblatt.de/region/stormarn/reinbek/article211771265/Sachsenwaldschule-Mission-Weltall-geglueckt.html)
+
 - Killing it in Golf (not really, just looks): [**youngster golf model**](https://www.yumpu.com/de/document/read/7343096/us-kids-golf-basisforderspiele)
 
 Really just putting this here to help the page rank (and of course vanity).

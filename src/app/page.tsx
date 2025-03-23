@@ -19,7 +19,7 @@ export default function Index() {
         <div className="relative">
           {/* Background cover image */}
           <Image
-            src="/assets/blog/hello-world/cover.jpg"
+            src="/assets/blog/my-why/cover.jpg"
             alt="Cover"
             fill
             style={{ objectFit: 'cover', width: '100%' }}

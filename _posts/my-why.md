@@ -1,13 +1,13 @@
 ---
 title: "Eager to Build Hard Tech."
 excerpt: "Born to build. Driven by profound techno optimism. Choosing to solve hard questions that move atoms. By building compute-data-intensive oracles."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/my-why/cover.jpg"
 date: "2025-03-22T05:35:07.322Z"
 author:
   name: Gordon J. Köhn
   picture: "/assets/blog/authors/gjk.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/authors/gjk.jpeg"
 ---
 
 Hey – I'm Gordon. 

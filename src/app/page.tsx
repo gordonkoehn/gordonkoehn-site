@@ -26,7 +26,7 @@ export default function Index() {
             className="object-cover"
           />
           {/* Profile picture overlay */}
-          <div className="absolute top-4 left-4 w-56 h-56 rounded-full overflow-hidden border-4 border-white">
+          <div className="absolute top-2 sm:top-3 md:top-4 left-2 sm:left-3 md:left-4 w-24 h-24 sm:w-36 sm:h-36 md:w-48 md:h-48 lg:w-56 lg:h-56 rounded-full overflow-hidden border-2 sm:border-3 md:border-4 border-white">
             <Image
               src="/assets/blog/authors/gjk.jpeg"
               alt="Profile Picture"

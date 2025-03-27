@@ -121,9 +121,7 @@ Therefore to explore the interesting behavior of a bound particle we choose the 
 
 See Sum-up video [here](https://www.youtube.com/watch?v=OcE1pHtgNj4):
 
-<div class="video-container">
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/OcE1pHtgNj4" frameborder="0" allowfullscreen></iframe>
-</div>
+[![Solving the Time-Dependent-Schroedinger Equation](https://img.youtube.com/vi/OcE1pHtgNj4/0.jpg)](https://www.youtube.com/watch?v=OcE1pHtgNj4)
 
 The individual simulations are also shown here:
 

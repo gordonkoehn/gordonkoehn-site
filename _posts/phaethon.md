@@ -32,7 +32,7 @@ We discovered that the chirality of successive CMEs matters!
 Also, some media coverage explaining it nicely:  
 [**Creating a perfect storm**](https://aasnova.org/2023/02/01/creating-a-perfect-solar-storm/), *American Astronomical Society*
 
-Find the [**Full thesis Report**](/assets/reports/MScPhysics_Project_Imperial_GordonJulianKoehn_01412124.pdf) here.
+Find the [**Full thesis Report**](/assets/blog/phaethon/MScPhysics_Project_Imperial_GordonJulianKoehn_01412124.pdf) here.
 
 In plain English, the sun may look calm in the sky, but in reality, violent masses of plasma are thrown around by fusion heat and unimaginably strong magnetic fields. Every now and then, magnetic field lines twist in such a way, building up tension, that a bulk of plasma is violently accelerated away. A **Coronal Mass Ejection** happens, and they look as marvelous as this:
 

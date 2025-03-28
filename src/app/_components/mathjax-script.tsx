@@ -2,6 +2,13 @@
 
 import { useEffect, useRef } from 'react';
 
+// Add TypeScript declaration for MathJax on the window object
+declare global {
+  interface Window {
+    MathJax?: any;
+  }
+}
+
 export default function MathJaxScript() {
   const scriptLoaded = useRef(false);
 

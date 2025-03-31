@@ -1,0 +1,17 @@
+<h1>Latest news</h1>
+     <h2>Own Domain</h2>
+      <p class="post-info">Posted on 06.07.2015. in NyxX </p>
+      <h2>Buy new Levels</h2>
+      <p class="post-info">Posted on 02.07.2015. in Linearity </p>
+      <h2>Coin System</h2>
+      <p class="post-info">Posted on 02.07.2015. in Linearity </p>
+      <h2>New Skins</h2>
+      <p class="post-info">Posted on 30.06.2015. in Linearity </p>
+      <h2>Highscore Database</h2>
+      <p class="post-info">Posted on 29.06.2015. in Linearity </p>
+      <h2>Skin System</h2>
+      <p class="post-info">Posted on 27.06.2015. in Linearity </p>
+      <h2>Level Scroll View (math required)</h2>
+      <p class="post-info">Posted on 27.06.2015. in Linearity </p>
+      <br/>
+      <br/>

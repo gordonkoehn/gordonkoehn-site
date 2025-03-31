@@ -18,7 +18,7 @@ NyxX Studios was a team of developers which was founded in February 2015. We wer
 
 Unfortunately, it has been taken down in 2019 as new Play Store regulations came into action.
 
-The legacy webpage can still be found here: **[NyxX Studios Legacy Page](/legacy/index.html)**
+The legacy webpage can still be found here: **[NyxX Studios Legacy Page](/assets/blog/linearity/legacy/index.html)**
 
 ### **Technologies**
 - Android SDK

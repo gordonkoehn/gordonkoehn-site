@@ -1,0 +1,15 @@
+.collapse-non-md {
+    height: 0;
+    display: none;
+}
+.collapse-non-md.collapsing {
+    display: block;
+}
+
+@media (min-width: 992px) {
+    .collapse-non-md {
+        height: auto;
+        display: block;
+    }
+}
+table tr.separator { height: 10px; }

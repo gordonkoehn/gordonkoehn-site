@@ -1,0 +1,31 @@
+Beispiel-urls 
+
+get()
+http://nyxxstudios.com/php/default_level_db_com.php?modus=get&username=jep7&output=score
+
+set()
+http://nyxxsstudios.com/modus=set&input=username&value=esel&username=GrandKo
+
+set_highscore()
+http://nyxxstudios.com/php/default_level_db_com.php?modus=set_highscore&allover=645,45,4556,567,56,67&week=34666,345,345&day=3454,345,345&username=GrandKo
+
+create_user()
+http://nyxxstudios.com/php/default_level_db_com.php?modus=create_user&username=hanelore69
+
+get_rank()
+http://nyxxstudios.com/php/default_level_db_com.php?modus=get_rank&username=GrandKo&field=allover_1
+
+retrive ()
+http://nyxxstudios.com/php/default_level_db_com.php?modus=retrieve&field=allover_1
+
+
+PS: KEY NICHT AUFGEFÜHRT!!!
+
+
+→>Datenbank resetten
+
+http://www.nyxxstudios.com/php/reset.php?key=DamnatioMemoriae
+
+
+
+

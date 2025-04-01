@@ -127,7 +127,7 @@ export default function UniversityResources() {
               <h3 className="text-2xl font-bold mb-4">Imperial College London - MSc Physics</h3>
               <ul className="list-disc ml-6 mb-4">
                 <li>Mini Project: <a href="/posts/tdse" className="text-blue-600 hover:underline">Solving the Time-dependent Schrödinger Equation</a></li>
-                <li>Self-Study Report: <a target="_blank" href="/SelfStudyProject_Koehn_01412124_ShorsQuantumFactoringAlgorithm_FinalVersion.pdf" className="text-blue-600 hover:underline">Report on Post Quantum Cryptography</a></li>
+                <li>Self-Study Report: <a target="_blank" href="/assets/reports/SelfStudyProject_Koehn_01412124_ShorsQuantumFactoringAlgorithm_FinalVersion.pdf" className="text-blue-600 hover:underline">Report on Post Quantum Cryptography</a></li>
               </ul>
               
               <div className="w-full h-48 bg-gray-200 mb-6">

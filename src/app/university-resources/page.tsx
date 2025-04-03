@@ -41,7 +41,7 @@ export default function UniversityResources() {
                 I am just passing on the tradition.</p>
 
               <p>Over the three years of my BSc at UCL I have accumulated a
-                wealth of probeme sheets and foremost handwritten solution
+                wealth of problem sheets and foremost handwritten solution
                 of past exams. I have put it all here for you.
                 All of the solutions are a product of what my friends
                 and me managed to do in preparation of exams.</p>

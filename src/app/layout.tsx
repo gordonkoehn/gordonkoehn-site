@@ -24,6 +24,19 @@ export default function RootLayout({
   return (
     <html lang="en" data-mode="system" suppressHydrationWarning>
       <head>
+        {/* Google tag (gtag.js) */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XEL0QH9PJ1"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-XEL0QH9PJ1');
+            `,
+          }}
+        />
+        
         <link
           rel="apple-touch-icon"
           sizes="180x180"

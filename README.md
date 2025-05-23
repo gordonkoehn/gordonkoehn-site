@@ -1,4 +1,4 @@
-# Gordon Koehn - Personal Website
+# Gordon J. Köhn - Personal Website
 
 This is my personal website built with Next.js, TypeScript, and Markdown.
 
